@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700;900&display=swap");
+@import "tailwindcss";
+@theme {
+  --font-fira: Fira, sans-serif;
+}
+
+.custom-container {
+  @apply w-full max-w-auto lg:max-w-6xl md:max-w-4xl mx-auto px-4;
+}
+.card {
+  @apply bg-gradient-to-bl from-slate-950 via-slate-900 to-slate-950 border border-slate-900 rounded-bl-4xl rounded-tr-4xl p-6 rounded-2xl shadow-lg transition-transform transform hover:scale-105 hover:shadow-amber-400 text-white;
+}
+
+body {
+  @apply bg-slate-900 font-fira;
+}
+.nav-link {
+  @apply w-full absolute top-20 left-0 z-10 bg-slate-800 border-t lg:border-0 lg:static lg:w-auto delay-300 ease-in-out transition-all duration-300;
+}
+.nav-link ul {
+  @apply flex-col items-center py-5 lg:flex-row lg:py-0;
+}
+
+.active {
+  @apply text-amber-400;
+}
+
+.active.not-active {
+  @apply text-white;
+}

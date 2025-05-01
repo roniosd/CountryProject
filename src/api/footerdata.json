@@ -1,0 +1,6 @@
+[
+  { "link": "home", "icon": "MdHomeFilled" },
+  { "link": "about", "icon": "MdPerson" },
+  { "link": "country", "icon": "MdPublic" },
+  { "link": "contact", "icon": "MdContactMail" }
+]

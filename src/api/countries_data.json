@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 164689383,
+    "interestingFact": "The Sundarbans mangrove forest in Bangladesh is home to the largest population of Bengal tigers."
+  },
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "The Taj Mahal in India is one of the Seven Wonders of the World."
+  },
+  {
+    "id": 2,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83166711,
+    "interestingFact": "The Berlin Wall divided East and West Germany from 1961 to 1989."
+  },
+  {
+    "id": 4,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60262770,
+    "interestingFact": "The Colosseum in Rome is the largest amphitheater in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "population": 46719142,
+    "interestingFact": "Spain is home to the world's second-largest number of UNESCO World Heritage Sites."
+  },
+  {
+    "id": 6,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "Big Ben is not the name of the clock, but the bell inside the tower."
+  },
+  {
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25499884,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 8,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan is home to more than 3,000 islands."
+  },
+  {
+    "id": 10,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 211049527,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 11,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+  }
+]

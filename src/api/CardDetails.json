@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "MdLocalPhone",
+    "title": "Phone Support",
+    "details": "Reach out to us via call"
+  },
+  {
+    "id": 2,
+    "icon": "MdEmail",
+    "title": "Email Us",
+    "details": "Send your inquiries via email"
+  },
+  {
+    "id": 3,
+    "icon": "MdLocationOn",
+    "title": "Head Office",
+    "details": "Shaistagonj, Habiganj"
+  }
+]
